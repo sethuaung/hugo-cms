@@ -6,9 +6,9 @@ intro:
   heading: What we offer
   description: >-
     IT CONSULTING
-CIO consulting
-Project Management
-Recruiting experts and you the best IT professionals.
+    CIO consulting
+    Project Management
+    Recruiting experts and you the best IT professionals.
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
