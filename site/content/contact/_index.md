@@ -1,11 +1,11 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/fe-120kb.jpg
 contact_entries:
   - heading: Location
-    text: "914 Lynn Avenue, North Okkalapa, Rangoon 11010"
+    text: 914 Lynn Avenue, North Okkalapa, Rangoon 11010
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 4*30PM We’re closed on Sundays"
+    text: "Monday – Saturday: 9:00AM – 4:30PM We’re closed on Sundays"
 ---
 
 We’d love to get in touch with you and hear your ideas and
