@@ -1,13 +1,13 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Your Strategic Partner in ERP & Digital Solutions "
+subtitle: Delivering top-notch ERP support to driving digital transformations that truly make a difference, we are committed to the highest standards of quality.  
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Felixent?
+    text: "We provide enterprise solutions that serve your specific needs of enterprise software solutions. Our technology consulting service offers a strategic partnership that empowers your organization to harness cutting-edge solutions for rapid business growth. Our experienced team of technology consultants assesses your organization's current IT infrastructure, processes, and workflows to identify opportunities for technology-driven improvements. With a deep understanding of industry trends and best practices, we provide custom solutions that optimize your operations, drive efficiency, mitigate risks, and create a sustainable advantage for your business."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "ERP Services"
+    text: "We specialises in providing comprehensive ERP (Enterprise Resource Planning) services to help organizations streamline operations, enhance efficiency, and achieve their business goals. We bring extensive industry knowledge, technical expertise, and a customer-centric approach to deliver impactful results."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
